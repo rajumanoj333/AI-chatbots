@@ -1,0 +1,6 @@
+langchain-groq
+langchain-openai
+langchain-community
+fastapi
+streamlit
+python-dotenv
